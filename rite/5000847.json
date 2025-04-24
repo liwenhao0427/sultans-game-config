@@ -115,7 +115,10 @@
         {
             "condition":
             {
-                "type":"item",
+                "any":{
+                    "type":"item",
+                    "type":"char",
+                },
                 "部队":1
             },
             "open_adsorb":0,
@@ -128,7 +131,10 @@
         {
             "condition":
             {
-                "type":"item",
+                "any":{
+                    "type":"item",
+                    "type":"char",
+                },
                 "部队":1
             },
             "open_adsorb":0,
@@ -141,7 +147,10 @@
         {
             "condition":
             {
-                "type":"item",
+                "any":{
+                    "type":"item",
+                    "type":"char",
+                },
                 "部队":1
             },
             "open_adsorb":0,

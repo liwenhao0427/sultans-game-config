@@ -692,10 +692,7 @@
             {
                 "any":{
                     "type":"char",
-                    "all":{
-                        "type":"item",
-                        "部队":1
-                    }
+                    "部队":1
                 }
             },
             "open_adsorb":0,
@@ -710,10 +707,7 @@
             {
                 "any":{
                     "type":"char",
-                    "all":{
-                        "type":"item",
-                        "部队":1
-                    }
+                    "部队":1
                 }
             },
             "open_adsorb":0,
@@ -728,10 +722,7 @@
             {
                 "any":{
                     "type":"char",
-                    "all":{
-                        "type":"item",
-                        "部队":1
-                    }
+                    "部队":1
                 }
             },
             "open_adsorb":0,

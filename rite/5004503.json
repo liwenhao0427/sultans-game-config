@@ -3,6 +3,7 @@
         "name": "忏悔",
         "text": "在此罪孽堆积之地，你可向祭司忏悔自己的过错，以洁净自己的灵魂和信念。",       
         "tips": "",
+        "mapping_id":8001201,
         "once_new":1,
         "round_number": 1,
         "waiting_round":2,

@@ -187,7 +187,10 @@
         {
             "condition":
             {
-               "type":"item",
+                "any":{
+                    "type":"char",
+                    "type":"item",
+                },
                 "部队":1
             },
             "open_adsorb":0,

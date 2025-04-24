@@ -3,6 +3,7 @@
         "name": "秘密幽会",
         "text": "伊曼想见你——在他那个小房子里。嗯……你应该是没有会错意。",       
         "tips": "",
+        "mapping_id":8001213,  
         "once_new":1,
         "round_number": 1,
         "waiting_round":2,

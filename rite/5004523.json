@@ -3,6 +3,7 @@
         "name": "神的仆人",
         "text": "纯净者教会的主祭伊曼已经死去，这一晚，所有信徒都在梦中听见了神的声音，梦到了一个名字——[player.name]，会是引导他们继续前行的教领。",       
         "tips": "",
+        "mapping_id":8001201,
         "once_new":1,
         "round_number": 1,
         "waiting_round":0,

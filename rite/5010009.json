@@ -381,7 +381,10 @@
                 {
                     "condition": 
                     {
-                        "type":"item",
+                        "any":{
+                            "type":"item",
+                            "type":"char",
+                        },
                         "部队":1,                   
                         "!is":2000428, //不是龙卷风
                         "!is":2000429,
@@ -398,7 +401,10 @@
                 {
                     "condition": 
                     {
-                        "type":"item",
+                        "any":{
+                            "type":"item",
+                            "type":"char",
+                        },
                         "部队":1,                   
                         "!is":2000428, //不是龙卷风
                         "!is":2000429,

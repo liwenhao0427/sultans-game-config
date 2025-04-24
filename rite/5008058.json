@@ -118,7 +118,10 @@
         {
             "condition": 
             {
-                "type":"item",
+                "any":{
+                    "type":"item",
+                    "type":"char"
+                },
                 "any":{
                     "部队":1,
                     "is":2000171,

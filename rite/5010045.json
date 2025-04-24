@@ -62,7 +62,7 @@
         "settlement_prior": [
             {
                 "condition": {
-                    "s1":1,
+                    //"s1":1,
                     "s2":1, //有星灵
                 },
                 "result_title":"它们在吟唱人类史",

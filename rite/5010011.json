@@ -1026,7 +1026,10 @@
                 {
                     "any":{
                         "all":{
-                            "type":"item",
+                            "any":{
+                                "type":"item",
+                                "type":"char",
+                            },
                             "部队":1  
                         },
                         "type":"char",
@@ -1075,7 +1078,10 @@
                 {
                     "any":{
                         "all":{
-                            "type":"item",
+                            "any":{
+                                "type":"item",
+                                "type":"char",
+                            },
                             "部队":1  
                         },
                         "type":"char",
@@ -1124,7 +1130,10 @@
                 {
                     "any":{
                         "all":{
-                            "type":"item",
+                            "any":{
+                                "type":"item",
+                                "type":"char",
+                            },
                             "部队":1  
                         },
                         "type":"char",

@@ -158,20 +158,20 @@
         "5":{
             "clip": "settlement_level2",
             "start": 0,
-            "loop_start": 15.004,
-            "loop_end": 32.015
+            "loop_start": 15.724,
+            "loop_end": 33.14
         },
         "4":{
             "clip": "settlement_level2",
             "start": 0,
-            "loop_start": 15.004,
-            "loop_end": 32.015
+            "loop_start": 15.724,
+            "loop_end": 33.14
         },
         "3":{
             "clip": "settlement_level2",
             "start": 0,
-            "loop_start": 15.004,
-            "loop_end": 32.015
+            "loop_start": 15.724,
+            "loop_end": 33.14
         },
         "2":{
             "clip": "settlement_level3",
@@ -215,13 +215,13 @@
             "clip": "settlement_level2",
             "start": 0,
             "loop_start": 15.004,
-            "loop_end": 32.015
+            "loop_end": 33.14
         },
         "2":{
             "clip": "settlement_level2",
             "start": 0,
             "loop_start": 15.004,
-            "loop_end": 32.015
+            "loop_end": 33.14
         },
         "1":{
             "clip": "settlement_level3",

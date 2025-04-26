@@ -44,6 +44,7 @@
                     "steam_achievement": "ACHIEVEMENT_011", //steam结局
                     "table.主角+宰相":1,
                     "table.主角.uprare":1, //主角升品级，虽然没什么卵用
+                    "table.主角=图片":2,  //主角替换立绘
                     "table.主角+社交":1,
                     "table.主角+魅力":2,
                     "counter+7100003":3, //权势
@@ -62,6 +63,7 @@
                 "case:op2": {
                     "table.2000312+宰相":1,
                     "table.2000312.uprare":1,
+                    "table.2000312=图片":1,  //奈费勒替换立绘
                     "table.2000312+社交":1,
                     "table.2000312+魅力":2,
                     "prompt":{
@@ -77,6 +79,7 @@
                     "steam_achievement": "ACHIEVEMENT_011", //steam结局
                     "table.主角+宰相":1,
                     "table.主角.uprare":1, //主角升品级，虽然没什么卵用
+                    "table.主角=图片":2,  //主角替换立绘
                     "table.主角+社交":1,
                     "table.主角+魅力":2,
                     "counter+7100003":3, //权势

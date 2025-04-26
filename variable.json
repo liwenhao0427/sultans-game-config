@@ -442,6 +442,8 @@
 
     "OVER_PROMPT_FORMAT": "{0}\n{1}",
 
+    "USER_ARCHIVE_ITEM_DESC_FORMAT": "{0}    {1}    {2}    <size=60%>{3:G}",
+
     //  新手引导国际化转换
     "slide/1-1": "slide/1-1",
     "slide/1-2": "slide/1-2",

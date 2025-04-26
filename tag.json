@@ -5816,5 +5816,41 @@
         "tag_sfx": "",
         "tag_rank": 10,
         "attributes": {}
+    },
+    "lock_159": {
+        "id": 3020268,
+        "name": "法图娜",
+        "code": "lock_159",
+        "type": "attribute",
+        "text": "标识这是法图娜",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 1,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {}
+    },
+    "lock_160": {
+        "id": 3020269,
+        "name": "梅姬",
+        "code": "lock_160",
+        "type": "attribute",
+        "text": "标识这是梅姬",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 1,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {}
     }
 }

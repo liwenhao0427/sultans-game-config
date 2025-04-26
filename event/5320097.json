@@ -8,7 +8,7 @@
         "round_begin_ba": 1
     },
     "condition":{  //条件
-        "!have.2000062":1,  //法图娜没有
+        "!have.法图娜":1,  //法图娜没有
         "table_have.2000063":1  //扎齐伊闲置
     },
     "settlement": [    //效果 

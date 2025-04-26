@@ -308,10 +308,6 @@
         "font": "Title SDF",
         "size": 75
     },
-    "SETTING_PANEL": {
-        "font": "Title SDF",
-        "size": 40
-    },
     "NEXT_DAY": {
         "font": "",
         "isRightToLeftText": false,

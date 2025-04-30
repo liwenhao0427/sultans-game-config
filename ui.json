@@ -276,7 +276,7 @@
         "comment": "苏丹卡折断演出第一阶段提示"
     },
     "SUDAN_CARD_BREAKER_STEP1_NOTICE_Gamepad": {
-        "zhCN": "长按L2+R2掰断苏丹卡",
+        "zhCN": "长按{0}掰断苏丹卡",
         "comment": "苏丹卡折断演出第一阶段提示"
     },
     "SUDAN_CARD_BREAKER_STEP2_NOTICE": {
@@ -737,6 +737,54 @@
     "BEGIN_GUIDE_CHANGE_SUDAN_CARD_PROMPT": {
         "zhCN": "对抽取的苏丹卡不满意？可以更换一张苏丹卡。\n如果足够自信，可以再来一张苏丹卡。",
         "comment": "抽卡界面新手引导"
+    },
+    "BEGIN_GUIDE_RIGHT_CLICK_SLOT_PROMPT_Gamepad": {
+        "zhCN": "选中卡槽，按下{0}，筛选出可以放置的卡牌。",
+        "comment": "点击卡槽新手引导"
+    },
+    "BEGIN_GUIDE_RIGHT_CLICK_CARD_PROMPT_Gamepad": {
+        "zhCN": "选中卡牌，按下{0}，将其快速放入卡槽中。",
+        "comment": "右键置入卡牌新手引导"
+    },
+    "BEGIN_GUIDE_FILL_COIN_PROMPT_Gamepad": {
+        "zhCN": "选择金币卡按下{0}两次，可以自动填充奢靡卡要求的金币数量。",
+        "comment": "欢愉之馆奢靡卡金币放置新手引导, 右键快捷放置卡牌说明"
+    },
+    "BEGIN_GUIDE_REDRAW_SUDAN_CARD_PROMPT_Gamepad": {
+        "zhCN": "选中苏丹卡, 按下{0}确认更换。",
+        "comment": "抽卡界面新手引导, 更换苏丹卡方法说明"
+    },
+    "BEGIN_GUIDE_RITE_LAST_STATE_PROMPT_Gamepad": {
+        "zhCN": "按下{0}自动填充上一次搭配的卡牌。",
+        "comment": "仪式界面新手引导, 自动填充按钮说明"
+    },
+    "BEGIN_GUIDE_RITE_CONFIRM_PROMPT_Gamepad": {
+        "zhCN": "按下{0}开启事件。",
+        "comment": "仪式界面新手引导, 开启事件按钮说明"
+    },
+    "BEGIN_GUIDE_RITE_STOP_PROMPT_Gamepad": {
+        "zhCN": "放错卡牌？按下{0}停止事件。",
+        "comment": "仪式界面新手引导, 停止事件按钮说明"
+    },
+    "BEGIN_GUIDE_CARD_INFO_PROMPT_Gamepad": {
+        "zhCN": "可以长按{0}查看卡牌说明。",
+        "comment": "卡牌详情新手引导, 说明按钮说明"
+    },
+    "BEGIN_GUIDE_READ_BOOK_PROMPT_Gamepad": {
+        "zhCN": "你获得了一本书，选中后按下{0}俺寻思试试吧。",
+        "comment": "获得书籍新手引导, 拖进俺寻思说明"
+    },
+    "BEGIN_GUIDE_BACK_ROUND_PROMPT_Gamepad": {
+        "zhCN": "如果需要，可以按下{0}回到上一天。",
+        "comment": "返回上一回合新手引导, 返回上一回合按钮说明"
+    },
+    "BEGIN_GUIDE_MAIN_HELP_PROMPT_Gamepad": {
+        "zhCN": "可以长按{0}查看功能说明。",
+        "comment": "主界面新手引导, 说明按钮"
+    },
+    "BEGIN_GUIDE_NEXT_DAY_PROMPT_Gamepad": {
+        "zhCN": "长按{0}触发下一天推进剧情。",
+        "comment": "主界面新手引导, 下一天按钮说明"
     },
     "RITE_HELP_TAG_PROMPT": {
         "zhCN": "当前仪式考验的卡牌<b><color=white><size=86>属性</size></color></b>。",

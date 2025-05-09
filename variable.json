@@ -94,6 +94,35 @@
         "equipment"
     ],
     "athor_auto_classify_tag": "other",
+    // 切换背景音乐过渡时间
+    "fade_in_transition_time": {
+        "Default": 1.5,
+        "MakerTeam": 0.5,
+        "StartGame": 1.5,
+        "MainGame": 1.5,
+        "Settlement": 4,
+        "DestroySudanCard": 3,
+        "DrawSudanCard": 1.5,
+        "OverGame": 2.5,
+        "Tutorial_MainGame": 1.5,
+        "Tutorial_Settlement": 1.5,
+        "Tutorial_DrawSudanCard": 1.5,
+        "Armageddon":2.5
+    },
+    "fade_out_transition_time": {
+        "Default": 1.5,
+        "MakerTeam": 0.5,
+        "StartGame": 1.5,
+        "MainGame": 1,
+        "Settlement": 4,
+        "DestroySudanCard": 3,
+        "DrawSudanCard": 1.5,
+        "OverGame": 1.5,
+        "Tutorial_MainGame": 1.5,
+        "Tutorial_Settlement": 1.5,
+        "Tutorial_DrawSudanCard": 1.5,
+        "Armageddon":4
+    },
     //
     "special_counters": [
         7100001,

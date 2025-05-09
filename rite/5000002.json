@@ -61,9 +61,12 @@
                 }
             },
             {
-                "condition":  //结局：正神
+                "condition":  //结局：正神和邪神
                 {
-                    "counter.7000439>=":1, //集结完后的标识
+                    "any":{
+                        "counter.7000596>=":1, //正神
+                        "counter.7000636>=":1, //邪神
+                    },
                 },
                 "result_title":"",
                 "result_text": "",

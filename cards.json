@@ -2901,7 +2901,8 @@
             "贵族": 1,
             "隐匿": 3,
             "爱书人": 1,
-            "纯色材质": 1
+            "纯色材质": 1,
+            "男性":1
         },
         "card_vanishing": 0,
         "vanish": {},
@@ -3455,7 +3456,7 @@
         "card_favour": "被俘虏的女邪术师",
         "type": "item",
         "tips": "",
-        "rare": 3,
+        "rare": 2,
         "resource": "cards/2000022",
         "tag": {
             "已拥有": 1,
@@ -16540,7 +16541,7 @@
         "type": "item",
         "tips": "",
         "rare": 2,
-        "resource": "cards/2000083",
+        "resource": "cards/2000698",
         "tag": {
             "已拥有": 1,
             "可堆叠": 1,
